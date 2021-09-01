@@ -1,0 +1,1 @@
+print("This is the Hello_World of Python applied for the git function practice!")
